@@ -9,11 +9,11 @@ inputs:
     default: ${{ github.token }}
 
   WAKATIME_API_KEY:
-    description: 'Your Wakatime API Key'
+    description: '249df612-8636-4dc9-84c3-465c0c964f2e'
     required: true
 
   USERNAME:
-    description: 'Your GitHub username'
+    description: 'AndyYuan-Oni'
     default: ${{ github.repository_owner }}
     required: false
 
